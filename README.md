@@ -1,2 +1,2 @@
 # Leetcode-POTD
-daily question of leetcode day 1
+daily question of leetcode day 0
